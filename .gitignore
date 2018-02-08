@@ -1,0 +1,10 @@
+*.apk
+*.ap_
+*.dex
+*.class
+*.key
+R.java
+obj/
+bin/
+gen/
+out/
